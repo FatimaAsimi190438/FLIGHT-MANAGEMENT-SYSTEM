@@ -1,0 +1,8 @@
+Reservation Details
+Customer Name:null
+Age:0
+Ticket Number:
+Seat Numbernull
+Origin:
+Destination:
+Total Due:[Ljava.lang.String;@880ec60
